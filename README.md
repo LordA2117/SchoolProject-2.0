@@ -21,3 +21,10 @@ Each teacher's timetable is housed in a separate excel file and the timetable is
 3. Additionally, the project was made in a python virtual environment, meaning that to use the project, there is no need to install python, or have the latest version of python(unless the user intends to modify the project in some way).
 4. GUI(source code): https://github.com/LordA2117/SchoolProject-2.0/blob/main/app.py
 5. Excel File Parser(source code): https://github.com/LordA2117/SchoolProject-2.0/blob/main/Fscan.py
+
+# Project Screenshots
+## Folder Browser: 
+![Folder Browser](folderBrowse.jpg)
+
+## Main Window:
+![Main Window](mainWindow.jpg)
