@@ -3,7 +3,7 @@ An updated version of the timetable manager that can be found in https://github.
 
 # Instructions
 1. Download the project either by downloading and extracting the zip folder or clone the project.
-2. Execute the shortcut that is seen titled 'app'.
+2. In the 'dist' folder run the executable that is titled as 'app'.
 3. The timetables required for testing are included in the project in the folder 'SchoolData'.
 4. From the window that opens when running the .exe file, click on browse and select the folder containing the timetables(SchoolData in this case.).
 5. Choose the timetables in the dropdown lists in the new window that appears after choosing the folder.
